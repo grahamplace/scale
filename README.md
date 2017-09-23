@@ -13,4 +13,4 @@ An SMS interface for a Google sheet, specifically for tracking current body weig
 
 4. Text your Twilio number, you should see a response!
 
-![Example of response](/public/example.jpeg?raw=true "Example")
+![Example of response](/public/example.png?raw=true "Example")
