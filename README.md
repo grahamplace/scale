@@ -12,3 +12,5 @@ An SMS interface for a Google sheet, specifically for tracking current body weig
 3. Make sure you add the correct Inbound Request URL setup on your Twilio app. Mine was: http://2a8a609f.ngrok.io/sms 
 
 4. Text your Twilio number, you should see a response!
+
+![Example of response](/public/example.jpeg?raw=true "Example")
