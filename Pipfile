@@ -8,6 +8,9 @@ name = "pypi"
 requests = "*"
 flask = "*"
 twilio = "*"
+"google-api-python-client" = "*"
+gspread = "*"
+"oauth2client" = "*"
 
 
 [dev-packages]
